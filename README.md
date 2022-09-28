@@ -37,7 +37,7 @@ AND REMEMBER HACKING IS ILLEGAL, OF YOU GET CAUGHT, DO NOT TELL THEN YOU KNOW WH
 3. Windows os (because this will only work on windows)
 
 
-## What's a BrowserModifier ?
+## What's a Trojan ?
 
 Google it xd
 
