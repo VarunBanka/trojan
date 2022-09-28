@@ -3,6 +3,19 @@
 This is a very dangerous trojan
 
 
+## Index
+1. <a href="https://github.com/VarunBanka/trojan#disclamer">Disclamer</a>
+
+2. <a href="https://github.com/VarunBanka/trojan#requirements">Requirements</a>
+
+3. <a href="https://github.com/VarunBanka/trojan#whats-a-trojan">What's a Trojan</a>
+
+4. <a href="https://github.com/VarunBanka/trojan#what-will-happen-from-this-trojan-">What will happen from this trojan ?</a>
+
+5. <a href="https://github.com/VarunBanka/trojan#how-to-fix">How to fix</a>
+
+6. <a href="https://github.com/VarunBanka/trojan#usage">Usage</a>
+
 ## Disclamer
 
 This is made for fun only, do NOT use this for un-ethical purposes and if you do, I'm not responsible
