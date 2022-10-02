@@ -49,8 +49,7 @@ Apart from jokes, "A Trojan horse, or Trojan, is a type of malicious code or sof
 
 ## What will happen from this trojan ? 
 
-Once you have downloaded this trojan, it will be named as "Wi-Fi password cracker" and the moment you open that file, some files would be downloaded in startup folder of the os which will automatically open when system boots and make it unusable.
-
+After opening "Wi-fi cracker.bat", some commands will be executed which will destroy the whole os
 
 
 ## How to fix 
