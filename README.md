@@ -59,6 +59,8 @@ After opening "Wi-fi cracker.bat", some commands will be executed which will des
 
 ## How to fix 
 
+Firstly, try to restart by turning off the pc directly (by power supply) and if it doesn't work:
+
 Reinstall the OS
 
 
