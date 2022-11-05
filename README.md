@@ -17,6 +17,9 @@ This is a very dangerous trojan
 
 6. <a href="https://github.com/VarunBanka/trojan#usage">Usage</a>
 
+7. <a href="https://github.com/VarunBanka/trojan#why-this-trojan">Why this trojan?</a>
+
+8. <a href="https://github.com/VarunBanka/trojan#contact-me">Contact Me</a>
 
 
 ## Disclamer
@@ -73,6 +76,23 @@ Run it
 
 Get some popcorn 🍿 and enjoy :D
 
+
+## Why this trojan?
+
+Many trojans are available out there but why should you consider this one?
+
+Because:
+
+A) it's open source
+
+B) Most of the anti virus softwares (probably) won't detect it 
+
+C) You can always contact the developer for any help (for instance, you are unable to fix.....)
+
+## Contact me
+
+If you need any kind of help, feel free to drop a mail <a href="mailto:bankavarun18@gmail.com
+">by clicking here</a>
 
 
 <a href="https://www.buymeacoffee.com/bankavarunk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
