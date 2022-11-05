@@ -25,7 +25,7 @@ This is made for fun only, do NOT use this for un-ethical purposes and if you do
 
 IF YOU WILL SEND THIS TO HACKER VARUN, HE WILL HELP YOU CHANGING YOUR SOCIAL MEDIA ACCOUNT'S PASSWORD AND TELL YOU YOUR IP ADDRESS FOR FREE
 
-AND REMEMBER HACKING IS ILLEGAL, IF YOU GET CAUGHT, DO NOT TELL THEN YOU KNOW WHO IS HACKER VARUN BANKA
+AND REMEMBER HACKING IS ILLEGAL, IF YOU GET CAUGHT, DO NOT TELL THEN  THAT YOU KNOW WHO IS HACKER VARUN BANKA
 
 Also don't use this in your school or office 
 
@@ -33,11 +33,11 @@ Also don't use this in your school or office
 
 ## Requirements
 
-1. Brain
+1. Brain 🧠
 
 2. Common sense
 
-3. Windows os (because this will only work on windows)
+3. Windows  os (because this will only work on windows)
 
 
 
@@ -59,8 +59,6 @@ After opening "Wi-fi cracker.bat", some commands will be executed which will des
 
 ## How to fix 
 
-Firstly, try to restart by turning off the pc directly (by power supply) and if it doesn't work:
-
 Reinstall the OS
 
 
@@ -73,7 +71,7 @@ Extract it
 
 Run it
 
-And it's literally game over
+Get some popcorn 🍿 and enjoy :D
 
 
 
