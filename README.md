@@ -81,7 +81,7 @@ Get some popcorn 🍿 and enjoy :D
 
 Many trojans are available out there but why should you consider this one?
 
-Because:
+#### Because:
 
 A) it's open source
 
