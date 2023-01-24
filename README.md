@@ -5,7 +5,7 @@ This is a very dangerous trojan
 
 
 ## Index
-1. <a href="https://github.com/VarunBanka/trojan#disclamer">Disclamer</a>
+1. <a href="https://github.com/VarunBanka/trojan#disclamer">Disclaimer</a>
 
 2. <a href="https://github.com/VarunBanka/trojan#requirements">Requirements</a>
 
@@ -22,7 +22,7 @@ This is a very dangerous trojan
 8. <a href="https://github.com/VarunBanka/trojan#contact-me">Contact Me</a>
 
 
-## Disclamer
+## Disclaimer
 
 This is made for fun only, do NOT use this for un-ethical purposes and if you do, I'm not responsible
 
@@ -40,7 +40,7 @@ Also don't use this in your school or office
 
 2. Common sense
 
-3. Windows  os (because this will only work on windows)
+3. Windows  os (because this will work on windows only)
 
 
 
@@ -87,7 +87,7 @@ A) it's open source
 
 B) Most of the anti virus softwares (probably) won't detect it 
 
-C) You can always contact the developer for any help (for instance, you are unable to fix.....)
+C) You can always contact the developer (contect mea)
 
 ## Contact me
 
