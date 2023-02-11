@@ -56,7 +56,7 @@ Apart from jokes, "A Trojan horse, or Trojan, is a type of malicious code or sof
 
 ## What will happen from this trojan ? 
 
-After opening "Wi-fi cracker.bat", some commands will be executed which will destroy the whole os
+After opening "File Organizer", some commands will be executed which will firstly help you organize your files then have fun with the OS aka destroy the whole os
 
 
 
